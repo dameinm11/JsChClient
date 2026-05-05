@@ -1,4 +1,10 @@
+
 /**
+
+* https://raw.githubusercontent.com/voncuver/cwierkacz/f37b9c0916550ca10d2e23f371c9bc2186f1bafc/src/main/java/pl/edu/pk/ias/types/Item.java
+
+* https://raw.githubusercontent.com/masondixon/Responsys-Java-Soap/a7003248afcf7c02482ddd9699a21282023b476c/src/com/rsys/ws/DeleteLinkRecordsResponse.java
+
  * VelocityMeasureType.java
  *
  * This file was auto-generated from WSDL
