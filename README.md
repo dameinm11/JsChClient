@@ -1,10 +1,10 @@
-# 🚩 MedCare: Multi-Tenant Feature Flag Platform
+# 🏳️ MedCare: Multi-Tenant Feature Flag Platform
 
 A Smart FullStack, Real-Time, and secure **Multi-Tenant Feature Flag Management web Platform** built over **MERN Stack** (MongoDB, Express.js, React, Node.js) and persists credential **v4 UUIDs** related callbacks to respective tables.
 
 ---
 
-## 🚀 Key Functionalities
+## 📒 Key Functionalities
 
 *   **🔒 OTP linked Role-Based Access Control (RBAC)**:
     *   **Super Admin**: Full access to onboard organizations, track role activity, view/review organization administrators, maintian active feature flag counts, and display all web role active status.
@@ -14,7 +14,7 @@ A Smart FullStack, Real-Time, and secure **Multi-Tenant Feature Flag Management 
 
 ---
 
-## 🛠️ Technology Stack 
+## 🧭 Technology Stack 
 
 *   **Frontend**: React (v18.2), Tailwind CSS, Vite, AutoPrefixer (`Lucide` & `Axios`).
 *   **Backend**: Node.js,  Mongoose (MongoDB Composs), Express.js,, Cors, Dotenv.
@@ -48,7 +48,7 @@ A Smart FullStack, Real-Time, and secure **Multi-Tenant Feature Flag Management 
 
 ---
 
-## 💾 Database Schemas (Mongoose)
+## 👨🏻‍⚕️ Database Schemas (Mongoose)
 
 ### 1. `Organization`
 Stores onboarded tenant organizations.
